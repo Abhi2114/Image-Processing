@@ -1,5 +1,5 @@
 /*
-  main driver program for the assignment
+  main driver program for the project
   contains all the user interaction stuff using GLUT and
   procedures for reading and writing an image to and from the display
   to disk and vice versa
