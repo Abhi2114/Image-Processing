@@ -60,7 +60,7 @@ public:
         void toBitmap();
         void reducePalette(std::vector<pixel> &palette);
 
-        // using median cut
+        // using median cut for automatic palette generation
         void getReducedPalette(std::vector<pixel> &palette);  // the results will be populated
         // into the palette
 
